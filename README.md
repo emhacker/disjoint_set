@@ -7,4 +7,4 @@ There are three supported operations:
 3. `union` Unions two given sets into one set.
 
 # Limitations
-At the moment, the library is agnostic to the representative of a set. (_e.g., the user cannot chhose the set representative_)
+At the moment, the library is agnostic to the representative of a set (_e.g., the user cannot choose the set representative_).
